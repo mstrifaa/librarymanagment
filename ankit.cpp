@@ -6,7 +6,7 @@
 #include<stdio_ext.h>
 #include<fstream>
 #include <time.h>
-#include <termios.h>
+
 #include <unistd.h>
 
 /* reads from keypress, doesn't echo */
